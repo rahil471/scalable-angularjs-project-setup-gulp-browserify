@@ -1,0 +1,4 @@
+{
+  "development": { "greeting": "Sup!" },
+  "production": { "greeting": "Hello" }
+}
