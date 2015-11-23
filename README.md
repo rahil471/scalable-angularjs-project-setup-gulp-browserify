@@ -1,7 +1,7 @@
 # scalable-angularjs-project-setup-gulp-browserify
 This is an angularjs project setup using gulp, node and browserify. This setup is an effort to keep your app more scalable and managable when it grows larger.
 
-Tutorial : 
+Tutorial : http://code.ciphertrick.com/2015/11/23/scalable-angularjs-setup-with-gulp-browserify/
 
 ## Quick Start
 Download the code as zip from the right or clone the repository.</br>
