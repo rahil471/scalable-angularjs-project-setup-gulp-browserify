@@ -6,7 +6,7 @@ require('angular-material');
 require('./components/home/home.js');
 require('./components/about/about.js');
 
-var app = angular.module('myApp', ['ui.router','ngMaterial','myApp.home','myApp.about'])
+var app = angular.module('myApp', ['ui.router','ngMaterial','myApp.home','myApp.about']);
 
 app.config(function($stateProvider, $urlRouterProvider) {
 	
